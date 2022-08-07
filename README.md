@@ -1,2 +1,2 @@
-<font color="#CE091F"> Public repository'ler eskidir. Privite olanlar için iletişime geçiniz. 👋  </font> 
+<font color="#red"> Public repository'ler eskidir. Privite olanlar için iletişime geçiniz. 👋  </font> 
 
